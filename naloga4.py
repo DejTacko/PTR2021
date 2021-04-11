@@ -20,4 +20,5 @@ for y in range(len(pyramid[x])):
     x = 0
     y += 1
 
-#print(force)
+print(max(force))
+print(max(force2))
