@@ -1,3 +1,5 @@
+#poskus pred odkritjem functools
+
 pyramid = [[4, 6, 8, 8, 3, 8], [8, 3, 4, 7, 6], [3, 4, 9, 6], [2, 6, 5], [3, 5], [8]]
 force = []
 force2 = []
